@@ -1,6 +1,6 @@
 cask "kubby-beta" do
-  version "2.0.0-beta.3"
-  sha256 "3501d8cc15aacbccae94fdb251f1bacf7b027a4853d90f0e8832d740d1f861bc"
+  version "2.0.0-beta.4"
+  sha256 "835592eaa157fb6e25019e86825b42b3417daf42815346eb782a485d238d5e52"
 
   url "https://github.com/erolbeyaz/homebrew-kubby/releases/download/v#{version}/Kubby_#{version}_aarch64.dmg"
   name "Kubby (beta)"
